@@ -133,4 +133,5 @@ Monto: 150.00
 - Manejo de excepciones
 
 ## Presentación
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/84a239a6-fb44-4eb2-b988-27ba64a87fea)
+
